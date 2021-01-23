@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.content {
+    width: 40%;
+    margin: 0 auto;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table td, th {
+    padding: 5px 0;
+    border: 1px solid #333;
+}
+
+form {
+    margin: 15px 0px;
+}
+
+form input {
+    width: 25%;
+}
+
+#content {
+    width: 65%;
+    margin-right: 20px;
+}
